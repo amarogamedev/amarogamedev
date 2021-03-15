@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Amaro
+- 👀 I’m interested in game development and graphic design
+- 🌱 I’m currently learning Unity and C#
